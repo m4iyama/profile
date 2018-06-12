@@ -1,0 +1,20 @@
+.blog-index {
+    font-family: 'Dosis', 'Yu Gothic', YuGothic, sans-serif;
+}
+
+.blog-index-post {
+    margin-bottom: 1rem;
+}
+
+.blog-index-post-date {
+    color: #e68d3d;
+}
+
+.blog-index-post-title {
+    font-size: 1.2rem;
+    color: #444444;
+    text-decoration: none;
+}
+.blog-index-post-title:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,48 @@
+.navbar {
+    font-family: 'Dosis', 'Yu Gothic', YuGothic, sans-serif;
+    line-height: normal;
+
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    height: 5rem;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.navbar-title {
+    margin-right: auto;
+    font-weight: 200;
+}
+
+.navbar-title-text {
+    font-size: 3rem;
+
+    color: black;
+    text-decoration: none;
+}
+
+.navbar-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-items: center;
+
+    font-weight: 300;
+}
+
+.navbar-link {
+    font-size: 1.2rem;
+    margin-left: 1.5rem;
+
+}
+
+.navbar-link-text {
+    color: black;
+    text-decoration: none;
+}
+.navbar-link-text:hover {
+    color: #e68d3d;
+}

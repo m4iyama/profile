@@ -1,0 +1,39 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    /*margin: 0;*/
+    /*display: flex;*/
+    /*justify-content: center;*/
+    /*align-items: center;*/
+}
+
+canvas {
+    top: 0;
+    left: 0;
+    position: absolute;
+    z-index: -1;
+}
+
+.artwork-date {
+    margin-bottom: 0.6rem;
+
+    font-family: 'Dosis';
+    font-weight: normal;
+    color: #e68d3d;
+}
+
+.artwork-title {
+    font-family: 'Dosis';
+    font-size: 3rem;
+    margin-top: 0;
+    margin-bottom: 3rem;
+    color: #dddddd;
+}
+
+.artwork-explanation {
+    font-family: 'Dosis';
+    font-weight: 200;
+    font-size: 1.2rem;
+}

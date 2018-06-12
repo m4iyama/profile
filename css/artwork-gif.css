@@ -1,0 +1,18 @@
+.artwork-date {
+    margin-bottom: 0.6rem;
+
+    font-family: 'Dosis';
+    font-weight: normal;
+    color: #e68d3d;
+}
+
+.artwork-title {
+    font-family: 'Dosis';
+    font-size: 3rem;
+    margin-top: 0;
+    margin-bottom: 3rem;
+}
+
+.artwork-content {
+    width: 100%;
+}

@@ -1,0 +1,23 @@
+.post-date {
+    margin-bottom: 0.6rem;
+
+    font-family: 'Dosis';
+    font-weight: normal;
+    color: #e68d3d;
+}
+
+.post-title {
+    font-family: 'Dosis';
+    margin-top: 0;
+    margin-bottom: 3rem;
+}
+
+.post-body {
+}
+
+.post-body ul {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+    list-style: disc inside none;
+}

@@ -1,0 +1,24 @@
+body {
+    overflow-y: scroll;
+    font-family: 'Yu Gothic', YuGothic, sans-serif;
+    font-size: 14px;
+    line-height: 1.6rem;
+    background: #f2f4f6;
+    color: #525252;
+}
+
+h1 { font-size: 1.8rem; }
+h2 { font-size: 1.6rem; }
+h3 { font-size: 1.4rem; }
+h4 { font-size: 1.2rem; }
+h1, h2, h3, h4 {
+    margin-top: 1.8rem;
+    margin-bottom: 1rem;
+
+    font-weight: bold;
+    color: #303030;
+}
+
+a {
+    text-decoration: none;
+}
